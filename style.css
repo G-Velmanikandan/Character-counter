@@ -1,0 +1,22 @@
+body{
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+textarea{
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    resize: none;
+}
+
+.counter{
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.warning{
+    color: red;
+    font-weight: bold;
+}
